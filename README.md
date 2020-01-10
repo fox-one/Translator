@@ -25,13 +25,13 @@ Use your fragmentation time to get DOGE.
 - Reward distribution. When all items in issue have been translated, an award announcement will be issued in Github and the award will be airdropped to the user's Fox wallet within 3 working days.
 
 **Pricing as below**
-
-| Grade       | Difficulty | Pricing  | Definition                                                   |
-| ----------- | :--------: | -------- | ------------------------------------------------------------ |
-| Simple      |     🌟      | 5 DOGE   | Words & phrases                                              |
-| General     |     🌟🌟     | 10 DOGE  | Short sentence                                               |
-| Complex     |    🌟🌟🌟     | 50 DOGE  | Long sentence & paragraph                                    |
-| Extra bonus |   🌟🌟🌟🌟🌟    | 100 DOGE | Each translation has a cumulative total of 10 complex items, with a one-time extra reward. |
+| Grade       | Difficulty | Pricing            | Definition                                                   |
+| ----------- | :--------: | ------------------ | ------------------------------------------------------------ |
+| Simple      |     🌟      | 5 DOGE             | Words & phrases                                              |
+| General     |     🌟🌟     | 10 DOGE            | Short sentence                                               |
+| Complex     |    🌟🌟🌟     | 50 DOGE            | Long sentence & paragraph                                    |
+| Extra Bonus |    🌟🌟🌟🌟    | 100 DOGE           | Each translation has a cumulative total of 10 complex items, with a one-time extra reward. |
+| Elite Only  |   🌟🌟🌟🌟🌟    | 1000 - 10,000 DOGE | Articles in FOX.ONE zendesk                                  |
 
 Reference：
 
@@ -42,3 +42,7 @@ Reference：
 50 DOGE ≈ $0.1
 
 100 DOGE ≈ $0.2 
+
+1000 DOGE ≈ $2
+
+10,000 ≈ $20
