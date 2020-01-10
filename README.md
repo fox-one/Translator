@@ -25,6 +25,7 @@ Use your fragmentation time to get DOGE.
 - Reward distribution. When all items in issue have been translated, an award announcement will be issued in Github and the award will be airdropped to the user's Fox wallet within 3 working days.
 
 **Pricing as below**
+
 | Grade       | Difficulty | Pricing            | Definition                                                   |
 | ----------- | :--------: | ------------------ | ------------------------------------------------------------ |
 | Simple      |     🌟      | 5 DOGE             | Words & phrases                                              |
